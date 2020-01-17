@@ -58,7 +58,7 @@ export default class Dropdown extends PureComponent {
     rippleDuration: 400,
     animationDuration: 225,
 
-    fontSize: 16,
+    fontSize: 14,
 
     textColor: 'rgba(0, 0, 0, .87)',
     itemColor: 'rgba(0, 0, 0, .54)',
